@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>Gym Management</title><link rel='stylesheet' href='style.css'></head><body><div class='container'><h2>Gym Management System</h2><a href='register.php'><button>Register</button></a><a href='login.php'><button>Login</button></a></div></body></html>
